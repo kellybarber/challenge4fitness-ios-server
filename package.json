@@ -1,0 +1,15 @@
+{
+  "name": "challenge4fitness-ios-server",
+  "version": "1.0.0",
+  "description": "API server for challenge4fitness",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelly Barber",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.2"
+  }
+}
